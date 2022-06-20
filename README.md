@@ -23,5 +23,5 @@ mlxtend
 First, you should download repDNA (http://bioinformatics.hitsz.edu.cn/repDNA/) to extract features Kmer (K =1, 2, 3), PseDNC (Lamada =3, W =0.05) and PCPseDNC (Lamada =3, W =0.05).
 Then, download iLearnPlus (https://github.com/Superzchen/iLearnPlus/) to extract the feature z-Curve9.
 Finally, if you want to compile and run iEnhancer-SKNN, you can run the script as:
-'python model.py'
+`python model.py`
 
