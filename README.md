@@ -15,9 +15,9 @@ The file "Example" is the feature KMER used in this study, including the kmer-ba
 
 ## Dependency
 Python 3.6
-sklearn
-numpy
-mlxtend
+sklearn 
+numpy 
+mlxtend 
 
 ## Usage
 First, you should download repDNA (http://bioinformatics.hitsz.edu.cn/repDNA/) to extract features Kmer (K =1, 2, 3), PseDNC (Lamada =3, W =0.05) and PCPseDNC (Lamada =3, W =0.05).
