@@ -9,9 +9,9 @@ In enhancer recognition, strong enhancers and weak enhancers are taken as positi
 In enhancer strength classification, strong enhancers are taken as positive examples and weak enhancers as negative examples.
 
 ## Overview
-Features Kmer, PseDNC and PCPseDNC is extracted using repDNA, and Z-Curve9 is extracted using iLearnPlus.
+Features Kmer, PseDNC and PCPseDNC are extracted using repDNA, and Z-Curve9 is extracted using iLearnPlus.
 The code "model.py" is used for model training and performance evaluation. We perform 10-fold cross-validation on the training set and evaluate the performance of iEnhancer-SKNN on the independent test set.
-The file "Example" is the feature KMER used in this study, including the kmer-based features of training set and independent test set and their corresponding labels respectively.
+The file "Example" is the feature KMER used in this study, including the kmer-based features of the training set and independent test set and their corresponding labels respectively.
 
 ## Dependency
 Python 3.6
